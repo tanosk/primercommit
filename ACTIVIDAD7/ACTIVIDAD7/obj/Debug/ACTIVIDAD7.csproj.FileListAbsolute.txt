@@ -1,0 +1,6 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\bin\Debug\ACTIVIDAD7.exe.config
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\bin\Debug\ACTIVIDAD7.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\bin\Debug\ACTIVIDAD7.pdb
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\obj\Debug\ACTIVIDAD7.csprojResolveAssemblyReference.cache
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\obj\Debug\ACTIVIDAD7.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\ACTIVIDAD7\ACTIVIDAD7\obj\Debug\ACTIVIDAD7.pdb

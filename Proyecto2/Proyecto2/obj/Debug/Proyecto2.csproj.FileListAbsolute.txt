@@ -1,0 +1,6 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojResolveAssemblyReference.cache
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb

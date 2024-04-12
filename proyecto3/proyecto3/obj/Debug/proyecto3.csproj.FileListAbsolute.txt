@@ -1,0 +1,2 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\proyecto3\proyecto3\bin\Debug\proyecto3.exe.config
+C:\Users\tanosk\Documents\Visual Studio 2012\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.csprojResolveAssemblyReference.cache

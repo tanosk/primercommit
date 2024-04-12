@@ -1,0 +1,2 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\escrituraCondicional\escrituraCondicional\bin\Debug\escrituraCondicional.exe.config
+C:\Users\tanosk\Documents\Visual Studio 2012\Projects\escrituraCondicional\escrituraCondicional\obj\Debug\escrituraCondicional.csprojResolveAssemblyReference.cache

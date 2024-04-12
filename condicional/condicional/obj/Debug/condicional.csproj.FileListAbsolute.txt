@@ -1,0 +1,2 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\condicional\condicional\bin\Debug\condicional.exe.config
+C:\Users\tanosk\Documents\Visual Studio 2012\Projects\condicional\condicional\obj\Debug\condicional.csprojResolveAssemblyReference.cache

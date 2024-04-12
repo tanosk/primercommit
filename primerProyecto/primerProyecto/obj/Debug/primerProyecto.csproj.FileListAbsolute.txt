@@ -1,0 +1,6 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe.config
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\obj\Debug\primerProyecto.csprojResolveAssemblyReference.cache
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\bin\Debug\primerProyecto.pdb
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\obj\Debug\primerProyecto.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\primerProyecto\primerProyecto\obj\Debug\primerProyecto.pdb

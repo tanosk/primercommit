@@ -1,0 +1,6 @@
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\bin\Debug\ProduccionOperario.exe.config
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\obj\Debug\ProduccionOperario.csprojResolveAssemblyReference.cache
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\bin\Debug\ProduccionOperario.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\bin\Debug\ProduccionOperario.pdb
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\obj\Debug\ProduccionOperario.exe
+c:\users\tanosk\documents\visual studio 2012\Projects\ProduccionOperario\ProduccionOperario\obj\Debug\ProduccionOperario.pdb
